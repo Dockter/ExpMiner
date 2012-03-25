@@ -1,0 +1,17 @@
+name: ExpMiner
+main: daredevil.ExpMiner.ExpMiner
+version: 1.7 beta
+author: daredevil, updated by Dockter
+platform: BOTH
+commands:
+  ExpMiner:
+    description: Reload config file
+    usage: /<command>
+softdepend: [PermissionsBukkit]
+softdepend: [Permissions]
+expminer.use:
+        description: Allows you to get EXP from mining
+        default: true
+expminer.reload:
+        description: Reload Configuration
+        default: false

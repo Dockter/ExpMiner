@@ -1,0 +1,22 @@
+#Fichier de configuration ExpMiner
+#Version 1.2 - Daredevil
+world: world,
+diamond: true
+diamondMsg: viens de trouver <nb> diamants !
+Permission: true
+dirtNum: 0
+dirtExp: 0
+stoneNum: 10
+stoneExp: 2
+coalNum: 5
+coalExp: 2
+redstoneNum: 4
+redstoneExp: 2
+ironNum: 3
+ironExp: 3
+goldNum: 2
+goldExp: 3
+lapisNum: 2
+lapisExp: 3
+diamondNum: 1
+diamantExp: 5
