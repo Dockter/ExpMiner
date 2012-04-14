@@ -1,7 +1,7 @@
 name: ExpMiner
-main: daredevil.ExpMiner.ExpMiner
-version: 1.7 beta
-author: daredevil, updated by Dockter
+main: net.dockter.ExpMiner.ExpMiner
+version: 2.0
+author: Dockter
 platform: BOTH
 commands:
   ExpMiner:
