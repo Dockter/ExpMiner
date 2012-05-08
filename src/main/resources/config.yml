@@ -1,4 +1,4 @@
-#Fichier de configuration ExpMiner
+#Configuration of ExpMiner
 #Version 1.2 - Daredevil
 world: world,
 diamond: true

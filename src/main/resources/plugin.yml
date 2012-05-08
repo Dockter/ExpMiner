@@ -1,14 +1,13 @@
 name: ExpMiner
-main: net.dockter.ExpMiner.ExpMiner
-version: 2.0
+main: net.dockter.expminer.ExpMiner
+version: ${version}
 author: Dockter
 platform: BOTH
 commands:
   ExpMiner:
     description: Reload config file
     usage: /<command>
-softdepend: [PermissionsBukkit]
-softdepend: [Permissions]
+softdepend: [Vault]
 expminer.use:
         description: Allows you to get EXP from mining
         default: true
